@@ -8,8 +8,8 @@
 
 #4 replace the script in package.json with : 
 
-    "scripts": {
+    `"scripts": {
     "sass": "node-sass -w scss/ -o dist/css --recursive"
-  },
+  },`
   
  #5 `npm node sass`
