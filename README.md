@@ -12,4 +12,4 @@
     "sass": "node-sass -w scss/ -o dist/css --recursive"
   },
   
- #5 `npm node sass`
+ #5 `npm run sass`
