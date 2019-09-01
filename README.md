@@ -4,7 +4,7 @@
 
 #2 in VScode terminal type : `npm init`
 
-#3 npm install `node-sass`
+#3 `npm install node-sass`
 
 #4 replace the script in `package.json` with : 
 
